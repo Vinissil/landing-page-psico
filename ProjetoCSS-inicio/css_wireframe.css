@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,400;1,600;1,800&display=swap');
+
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logomarca{
+    position:absolute; 
+    top:50px; 
+    left:50px;
+}
+
+.presentationBox {
+    background-image: url(imagens/Background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: local;
+    display: flex; 
+    background-size: 100%;
+    flex-direction: column;
+    height: 1000px;
+}
+
+.headTitle {
+    text-align: justify;
+    color:#7A7A7A;
+    font-size: 40px;
+    margin: 400px 475px 0px;
+}
+
+.headSubtitle {
+    text-align: justify;
+    color:#7A7A7A;
+    font-size: 22px;
+    margin: 20px 650px;
+}
+
+main {
+    background-image: url(imagens/Brain.jpg);
+    background-size: 40%;
+    color: #7A7A7A;
+    background-repeat: no-repeat;
+    background-attachment:local;
+    background-position: right;
+    background-position: 950px 300px;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    font-size: 100%;
+}
+
+.therapyBoxTitle {
+    margin-left: 100px;
+}
+
+
+.tccTitle{
+    margin-left: 100px;
+}
+
+.psychoTitle {
+    margin-left: 100px;
+}
+
+
+.therapyText {
+    text-align: justify;
+    width: 600px;
+    border: 1;
+    font-size: 20px;
+    display: block;
+    margin: 100px;
+    margin-top: 20px;
+}
+
+.tccText {
+    text-align: justify;
+    width: 600px;
+    border: 1;
+    font-size: 20px;
+    display: block;
+    margin: 100px;
+    margin-top: 20px;
+}
+
+.psychoText {
+    text-align: justify;
+    width: 600px ;
+    border: 1;
+    font-size: 20px;
+    display: block;
+    margin: 100px;
+    margin-top: 20px;
+}
+
+article {
+    background-image: url(imagens/foto\ perfil\ karina.jpg);
+    background-color: #e0f7fc;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position: left;
+    background-size: 50%;
+    color: #7A7A7A;
+    height: 1000px;
+}
+
+.aboutMeTitle {
+    font-size: 35px;
+    text-align: right;
+    margin-right: 510px;
+    padding-top: 10px;
+  
+}
+
+.aboutMeText {
+    font-size: 25px;
+    text-align: justify;
+    width: 500px ;
+    border: 1;
+    display: block;
+    margin: 1130px;
+    margin-top: 60px;
+    
+}
+
+
+.Feed {
+    color: #7A7A7A;
+    text-align: center;
+}
+
+#social-container {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    border-bottom: 1px solid;
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+    font-size: 60px;
+    justify-content: space-evenly;
+}

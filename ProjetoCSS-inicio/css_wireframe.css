@@ -8,6 +8,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: #7A7A7A;
 }
 
 .logomarca{
@@ -109,6 +110,7 @@ article {
     height: 1000px;
 }
 
+
 .aboutMeTitle {
     font-size: 35px;
     text-align: right;
@@ -128,10 +130,15 @@ article {
     
 }
 
-
-.Feed {
+h1.feed{
+    margin-left: 620px;
     color: #7A7A7A;
-    text-align: center;
+    font-size: 50px;
+}
+
+.instagramFeed {
+    
+  
 }
 
 #social-container {
@@ -143,4 +150,9 @@ article {
     padding-bottom: 15px;
     font-size: 60px;
     justify-content: space-evenly;
+}
+
+.copyrightText{
+    text-align: center;
+    color: #7A7A7A;
 }

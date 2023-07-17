@@ -3,6 +3,7 @@
 
 
 body {
+    
     font-family: 'Open Sans', sans-serif;
     flex-direction: column;
     margin: 0;
@@ -12,9 +13,10 @@ body {
 }
 
 .logomarca{
-    position:absolute; 
+    position: absolute;
     top:50px; 
     left:50px;
+    width: 15%;
 }
 
 .presentationBox {
@@ -30,25 +32,25 @@ body {
 .headTitle {
     text-align: justify;
     color:#7A7A7A;
-    font-size: 40px;
-    margin: 400px 475px 0px;
+    font-size: 25px;
+    margin: 400px 575px 0px;
 }
 
 .headSubtitle {
     text-align: justify;
     color:#7A7A7A;
-    font-size: 22px;
+    font-size: 15px;
     margin: 20px 650px;
 }
 
 main {
     background-image: url(imagens/Brain.jpg);
-    background-size: 40%;
+    background-size: 25%;
     color: #7A7A7A;
     background-repeat: no-repeat;
     background-attachment:local;
     background-position: right;
-    background-position: 950px 300px;
+    background-position: 1000px 200px;
     padding: 0px;
     border: 0px;
     margin: 0px;
@@ -56,16 +58,20 @@ main {
 }
 
 .therapyBoxTitle {
+    margin-top: 50px;
     margin-left: 100px;
+    font-size: 25px;
 }
 
 
 .tccTitle{
     margin-left: 100px;
+    font-size: 25px;
 }
 
 .psychoTitle {
     margin-left: 100px;
+    font-size: 25px;
 }
 
 
@@ -73,7 +79,7 @@ main {
     text-align: justify;
     width: 600px;
     border: 1;
-    font-size: 20px;
+    font-size: 15px;
     display: block;
     margin: 100px;
     margin-top: 20px;
@@ -83,7 +89,7 @@ main {
     text-align: justify;
     width: 600px;
     border: 1;
-    font-size: 20px;
+    font-size: 15px;
     display: block;
     margin: 100px;
     margin-top: 20px;
@@ -93,7 +99,7 @@ main {
     text-align: justify;
     width: 600px ;
     border: 1;
-    font-size: 20px;
+    font-size: 15px;
     display: block;
     margin: 100px;
     margin-top: 20px;
@@ -112,21 +118,20 @@ article {
 
 
 .aboutMeTitle {
+    
     font-size: 35px;
     text-align: right;
-    margin-right: 510px;
-    padding-top: 10px;
-  
+    margin: 0 630px 0;
+    height: 300px;
 }
 
 .aboutMeText {
-    font-size: 25px;
-    text-align: justify;
-    width: 500px ;
-    border: 1;
-    display: block;
-    margin: 1130px;
-    margin-top: 60px;
+    font-size: 18px;
+    text-align: left;
+    width: 500px;
+    height: 90px; 
+    border: 1px;
+    margin: 0 1000px;
     
 }
 
@@ -138,7 +143,7 @@ h1.feed{
 
 .instagramFeed {
     
-  
+     
 }
 
 #social-container {

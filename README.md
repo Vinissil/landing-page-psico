@@ -1,25 +1,34 @@
-# Landing Page - Psicologia
+# Landing Page - Psychology
 
-Este repositório contém uma **Landing Page** desenvolvida para profissionais da área de psicologia, com o objetivo de apresentar informações sobre os serviços oferecidos e facilitar o contato com potenciais pacientes.
+This repository contains a **Landing Page** developed for psychology professionals, aimed at presenting service information and facilitating contact with potential clients.
 
-## 🎯 Objetivo do Projeto
+## 🎯 Project Goal
 
-Criar uma página de apresentação visualmente atraente e funcional, adequada para psicólogos que desejam divulgar seus serviços de forma profissional.
+The goal of this project is to create a visually appealing and functional page, suitable for psychologists who want to professionally showcase their services.
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Technologies Used
 
-- **HTML5**: Estrutura do conteúdo da página.
-- **CSS3**: Estilização da página, garantindo uma aparência agradável e responsiva.
+- **HTML5**: Structure of the page content.
+- **CSS3**: Styling of the page, ensuring a pleasant and responsive design.
 
-## 🖥️ Funcionalidades
+## 🖥️ Features
 
-- Apresentação básica dos serviços oferecidos.
-- Seção de contato para facilitar o envio de mensagens.
+- Basic presentation of services offered.
+- Contact section to facilitate message submission.
+- Responsive design, adapted for different devices.
 
-## 📂 Estrutura do Projeto
+📦 How to Run the Project Locally
+-Clone the repository: 
+  - git clone https://github.com/Vinissil/landing-page-psico.git
+-Open the index.html file directly in your browser.
+    -use the live server of visual studio code for better performance.
+
+
+## 📂 Project Structure
 
 ```plaintext
 /
-├── index.html        # Página principal com o conteúdo da landing page
-├── style.css         # Arquivo de estilos da página
-└── assets/           # Imagens e ícones utilizados na página
+├── index.html        # Main page with the landing page content
+├── style.css         # Stylesheet for the page
+└── assets/           # Images and icons used in the page
+

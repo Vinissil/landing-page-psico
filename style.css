@@ -118,10 +118,10 @@ article {
 
 
 .aboutMeTitle {
-    
+    padding-top: 250px;
+    padding-left: 1000px;
     font-size: 35px;
-    text-align: right;
-    margin: 0 630px 0;
+    text-align: left;
     height: 300px;
 }
 

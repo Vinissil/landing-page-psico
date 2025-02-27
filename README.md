@@ -1,4 +1,4 @@
-# Landing Page - Psychology
+# Lading Page - Psychology
 ![firstpart](https://github.com/Vinissil/landing-page-psico/blob/main/imagens/landingpagehome.png)
 ![secondpart](https://github.com/Vinissil/landing-page-psico/blob/main/imagens/landingpagehome2.png)
 This repository contains a **Landing Page** developed for psychology professionals, aimed at presenting service information and facilitating contact with potential clients.
